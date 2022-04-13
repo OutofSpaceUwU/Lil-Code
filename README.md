@@ -1,2 +1,2 @@
 # Moni_heichouDiscordServer
-Lines of Code on the Moni Heichou DiscordServer
+Lines of Code written for the Moni Heichou DiscordServer
