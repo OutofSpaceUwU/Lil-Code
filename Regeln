@@ -1,0 +1,25 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "§1 Unerwünschtes Verhalten von Mitgliedern",
+      "description": "1. Wir halten uns an geltende Gesetze!\n\n2. Sämtliche Verstöße gegen Urheber- und Persönlichkeitsrecht, sowie Beiträge, die Beleidigung, Verleumdung, üble Nachrede, Schmähungen von Personen oder Organisationen, vulgäre Beiträge. Gewaltverherrlichung, Diskriminierung, Rassismus, Fremdenfeindlichkeit oder Sexismus enthalten, sowie menschenverachtende oder verfassungsfeindliche Beiträge haben hier keinen Platz.\n\n3. Persönliche Attacken, herabwürdigende Kommentare, falsche Behauptungen, Mobbing und Hänseleien haben hier ebenfalls nichts zu suchen.\n\n4. Werbliche Inhalte und Links zu nicht vertrauenswürdigen Websites sind unerwünscht\n\n5. Das Veröffentlichen von persönlichen Daten oder vertraulich bekannt gewordener Information ist untersagt.\n\n6. Diese Regeln gelten sowohl für den öffentlich sichtbaren Bereich, als auch die persönlichen Nachrichten\n\n7. User:innen, die wiederholt gegen die Serverregeln verstoßen, werden für den Server gesperrt.\n\n8. Verzichte auf Spamming (massenhaftes Posten von gleichen oder ähnlichen Inhalten) und Flooding (\"Überfluten\" der Channels mit einer hohen Anzahl von Inhalten). Dies gilt analog auch für Bewertungen. Außerdem ist es nicht gestattet, mit mehreren Accounts zu posten.",
+      "color": 51351,
+      "footer": {
+        "text": "*als Inhalte werden sämtlichen Objekten, welche User:innen in Channel posten können gewertet"
+      }
+    },
+    {
+      "title": "§2 Konsequenzen bei Regelverstößen",
+      "description": "Verstöße gegen die Community Guidelines werden im Interesse der Community verfolgt, denn wir möchten mit Euch eine vertrauensvolle und positive Kommunikation aufbauen. Je nach Schwere werden diese mit unterschiedlichen Konsequenzen behandelt. Mögliche Konsequenzen reichen hier von einer schriftlichen Verwarnung, über den temporären, bis hin zu einem permanenten Ausschluss aus der Community. Sollten wir einmal einen Verstoß nicht sehen, dann meldet diesen bitte an <@959188666109010090> \nWir kümmern uns dann drum!\n\n**Mit dem Klicken auf den grünen Hacken unter dieser Nachricht und dem Freischalten aller Channels auf diesem Server stimmt ihr den aktuellen Server Regeln zu. \n**",
+      "color": 51351,
+      "footer": {
+        "text": "*als \"wir\" werden sämtliche Mitglieder des Moderationsteams bezeichnet"
+      },
+      "timestamp": "2022-04-13T14:20:00.000Z"
+    }
+  ],
+  "username": "Lil Code",
+  "avatar_url": "https://cdn-icons.flaticon.com/png/512/534/premium/534621.png?token=exp=1649856572~hmac=4b237b2311e9ca0ec3ba15614490b7f1",
+  "attachments": []
+}
