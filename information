@@ -1,0 +1,36 @@
+{
+  "content": null,
+  "embeds": [
+    {
+      "title": "Hier erfährst du alles, was du auf diesem Server erleben und tun kannst",
+      "color": 51351
+    },
+    {
+      "description": "**Informationen**\n\n1. <#958828556866187304>\n\nDies ist der erste Chat, den du dir ansehen kannst und solltest. In diesem Chat stehen alle Regeln, die auf diesem Server gelten. Du solltest sie dir durchlesen und dich daran halten. \n\n2. In <#958827828231684128> erscheint immer eine Nachricht, wenn jemand dem Server beitritt, begrüßt neue Mitglieder ganz herzlich ❤️\n\n3. <#958827828231684129> kommen, wie der Name schon sagt Ankündigung. Etwa zu neuen Büchern, Events, Aktivitäten oder Aktionen, die diesen Server betreffen.",
+      "color": 51351
+    },
+    {
+      "description": "**Textkanäle**\n\n<#958827828231684131> ist der Bereich für alles. Der normale Gruppenchat in dem man normal mit seinen Freunden schreibt, es sind keine Regeln außer die des Servers in diesem Bereich. \n\n<#958827828231684132> ist ein Chat, indem Events geplant und ausgeführt werden. Ist zum Beispiel eine Lesenacht (eine Nacht in der <@770219691863179275> mehrere Kapitel nach einander hochlädt und diese dann zusammen mit euch im \"Stream-Raum\" VC liest. Eine Art Geschichtsstunde.)",
+      "color": 51351
+    },
+    {
+      "description": "**Sprachkanäle**\n\n1. Lounge\n- ein VC der von jedem zu jeder Zeit genutzt werden kann. Seht es als Server Telefonat an.\n\n2. Community-Treffpunkt VC\n- dieser ist für eine größere Gruppe an Leuten, etwa wenn ein Community-Event läuft wie, dass ein Spiel online zusammen gespielt wird.\n\n3. Stream-Raum ist der VC der ausschließlich für Events ist wie die Lesenacht. Events vom Admin.",
+      "color": 51351
+    },
+    {
+      "description": "**Moniheichou**\n\nNennen wir es meine kreative Ecke. Ihr könnt euch ansehen, was ich plane, wie ich plane und wie ein Buch entsteht. Zwar könnt ihr nicht in diese Chats schreiben, doch könnt ihr reagieren und so explizit Feedback geben!",
+      "color": 51351
+    },
+    {
+      "description": "**Community**\n\n<#958829873307217930> es ist zwar kein Vent Channel aber ähnlich.  Ihr sollt euch dort keine Therapie holen, hier schreibt ihr, wenn es euch schlecht geht und ihr einfach abgelenkt werden wollt. Es ist erlaubt über das Problem zu reden, doch sollte es den Chat nicht dominieren. Verliert euch nicht.\n\n<#958830317630783508> Hier wird gespielt. <@770219691863179275> hat viele Spiele, die man hier ausprobieren kann, ob mit ihr explizit oder untereinander ist relativ. Hier sind die \"Gamer\" zu Hause.",
+      "color": 51351
+    },
+    {
+      "description": "** Rollen**\n\n<@&959188505756586024>\n- Nutzer mit dieser Rolle, verfügen über alle Rechte auf diesem Server und Leiten diesen. \n\n<@&959188666109010090>\n- Nutzer mit dieser Rolle, stehen hierarchisch direkt unter den Admins. Sie tragen ebenfalls eine verwaltene Rolle\n\n<@&959187831274766376>\n- Diese Rolle erhalten alle Nutzer, die den Serverregeln zugestimmt haben. \n\n<@&963873420888666154>\n- Leute mit dieser Rolle sind für den technischen Aspekt des Servers zuständig. Bei solchen Problemen oder Anfragen wie zusätzlichen Bots oder anderen Problemen wendet euch an die Staff.",
+      "color": 51351
+    }
+  ],
+  "username": "Lil Code",
+  "avatar_url": "https://i.imgur.com/la92r5C.png",
+  "attachments": []
+}
