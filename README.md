@@ -1,2 +1,1 @@
-# Moni_heichouDiscordServer
-Lines of Code written for the Moni Heichou DiscordServer
+# Lil-Code Messages on a Discord Server
